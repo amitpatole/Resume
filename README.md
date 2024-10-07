@@ -24,7 +24,7 @@
 │                           Amit Samson Patole                                 │
 │            Systems Integration Engineer & DevOps Specialist                  │
 └──────────────────────────────────────────────────────────────────────────────┘
-
+<p align="justify">
 amit@devops:~$ cat professional_summary.txt
 
 Seasoned Systems Integration Engineer and DevOps Specialist with 18+ years of 
@@ -209,4 +209,4 @@ amit@devops:~$ cat contact_info.json
 
 amit@devops:~$ echo "Resume loaded successfully. Ready for new challenges!"
 Resume loaded successfully. Ready for new challenges!
-
+</p>
