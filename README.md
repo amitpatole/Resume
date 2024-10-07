@@ -20,8 +20,6 @@
 <div align="center">
   
 ```html
-<div style="background-color: black; color: #00ff00; font-family: 'Courier New', Courier, monospace; padding: 20px; border-radius: 10px; text-align: left;">
-  <pre style="white-space: pre-wrap; word-wrap: break-word;">
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │                           Amit Samson Patole                                 │
 │            Systems Integration Engineer & DevOps Specialist                  │
@@ -211,6 +209,4 @@ amit@devops:~$ cat contact_info.json
 
 amit@devops:~$ echo "Resume loaded successfully. Ready for new challenges!"
 Resume loaded successfully. Ready for new challenges!
-  </pre>
-</div>
-```
+
