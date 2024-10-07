@@ -213,3 +213,4 @@ amit@devops:~$ echo "Resume loaded successfully. Ready for new challenges!"
 Resume loaded successfully. Ready for new challenges!
   </pre>
 </div>
+```
