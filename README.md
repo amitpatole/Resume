@@ -1,30 +1,17 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/Amit%20Samson%20Patole-Systems%20Integration%20Engineer%20%26%20DevOps%20Specialist-brightgreen" alt="Amit Samson Patole - Systems Integration Engineer & DevOps Specialist">
-</div>
+# Amit Samson Patole - Systems Integration Engineer & DevOps Specialist
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/amit-patole/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
-  <a href="https://github.com/amitpatole"><img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&style=flat-square" alt="GitHub"></a>
-  <a href="mailto:amit.patole@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Phone-678--862--4544-green" alt="Phone">
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amit-patole/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&style=flat-square)](https://github.com/amitpatole)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:amit.patole@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-678--862--4544-green)]()
+[![Location](https://img.shields.io/badge/Location-Atlanta%2C%20GA-blue)]()
 
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Location-Atlanta%2C%20GA-blue" alt="Location">
-</div>
-
-<br>
-
-<div align="center">
-  
-```html
+```
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │                           Amit Samson Patole                                 │
 │            Systems Integration Engineer & DevOps Specialist                  │
 └──────────────────────────────────────────────────────────────────────────────┘
-<p align="justify">
+
 amit@devops:~$ cat professional_summary.txt
 
 Seasoned Systems Integration Engineer and DevOps Specialist with 18+ years of 
@@ -209,4 +196,4 @@ amit@devops:~$ cat contact_info.json
 
 amit@devops:~$ echo "Resume loaded successfully. Ready for new challenges!"
 Resume loaded successfully. Ready for new challenges!
-</p>
+```
