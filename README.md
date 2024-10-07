@@ -1,6 +1,27 @@
-# Amit Samson Patole - Systems Integration Engineer & DevOps Specialist
+<div align="center">
+  <img src="https://img.shields.io/badge/Amit%20Samson%20Patole-Systems%20Integration%20Engineer%20%26%20DevOps%20Specialist-brightgreen" alt="Amit Samson Patole - Systems Integration Engineer & DevOps Specialist">
+</div>
 
-```console
+<div align="center">
+  <a href="https://www.linkedin.com/in/amit-patole/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
+  <a href="https://github.com/amitpatole"><img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&style=flat-square" alt="GitHub"></a>
+  <a href="mailto:amit.patole@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Phone-678--862--4544-green" alt="Phone">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Location-Atlanta%2C%20GA-blue" alt="Location">
+</div>
+
+<br>
+
+<div align="center">
+  
+```html
+<div style="background-color: black; color: #00ff00; font-family: 'Courier New', Courier, monospace; padding: 20px; border-radius: 10px; text-align: left;">
+  <pre style="white-space: pre-wrap; word-wrap: break-word;">
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │                           Amit Samson Patole                                 │
 │            Systems Integration Engineer & DevOps Specialist                  │
@@ -190,3 +211,5 @@ amit@devops:~$ cat contact_info.json
 
 amit@devops:~$ echo "Resume loaded successfully. Ready for new challenges!"
 Resume loaded successfully. Ready for new challenges!
+  </pre>
+</div>
